@@ -1,0 +1,5 @@
+pbkdf2
+pyric
+roguehostapd
+scapy
+tornado>=5.0.0
